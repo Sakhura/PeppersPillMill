@@ -1,0 +1,8 @@
+Statistics:
+dataC1.txt: 69.08 16.392486083568897
+dataC2.txt: 62.2 24.124676163629637
+dataC3.txt: 40.7 22.841409763847764
+Results:
+dataC1.txt vs. dataC2.txt : false
+dataC1.txt vs. dataC3.txt : true
+dataC2.txt vs. dataC3.txt : false

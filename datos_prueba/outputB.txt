@@ -1,0 +1,8 @@
+Statistics:
+dataB1.txt: 49.66 26.73058921909504
+dataB2.txt: 55.47 27.019420793199842
+dataB3.txt: 49.78 29.945811059311787
+Results:
+dataB1.txt vs. dataB2.txt : false
+dataB1.txt vs. dataB3.txt : false
+dataB2.txt vs. dataB3.txt : false

@@ -1,0 +1,8 @@
+Statistics:
+dataA1.txt: 69.0 18.422811946062957
+dataA2.txt: 47.0 19.91983935678197
+dataA3.txt: 51.583333333333336 19.202683550888285
+Results:
+dataA1.txt vs. dataA2.txt : true
+dataA1.txt vs. dataA3.txt : false
+dataA2.txt vs. dataA3.txt : false
