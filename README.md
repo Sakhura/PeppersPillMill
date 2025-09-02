@@ -290,7 +290,7 @@ El programa maneja automáticamente:
 
 ## 👥 Créditos
 
-Desarrollado por Sabina Romero
+Desarrollado por Sabina Romero y Andres Perot
 
 ## Iconografía
 

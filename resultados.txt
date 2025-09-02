@@ -1,0 +1,8 @@
+Statistics:
+datos_prueba\dataA1.txt: 69.0 18.422811946062946
+datos_prueba\dataA2.txt: 47.0 19.919839356781978
+datos_prueba\dataA3.txt: 51.583333333333336 19.20268355088829
+Results:
+datos_prueba\dataA1.txt vs. datos_prueba\dataA2.txt : true
+datos_prueba\dataA1.txt vs. datos_prueba\dataA3.txt : false
+datos_prueba\dataA2.txt vs. datos_prueba\dataA3.txt : false
