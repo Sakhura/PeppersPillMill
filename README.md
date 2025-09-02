@@ -239,7 +239,7 @@ El programa maneja automáticamente:
 ## 🎓 Información de la Tarea
 
 - **Curso**: CSE110 - Programación
-- **Tarea**: 11.17 - Resolución de problema aplicado
+- **Tarea**: 11.17 - Resolución de problema aplicado Pepper's Pill Mill
 - **Fecha de entrega**: Martes a las 23:59
 - **Puntos totales**: 57
 - **Intentos permitidos**: 1
